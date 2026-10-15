@@ -114,7 +114,7 @@ def upload_metadata_to_github(metadata: dict) -> str:
     Returns the GitHub raw URL where metadata will be hosted.
     In practice, we push agent-metadata.json to the repo and use the raw URL.
     """
-    repo = "ProtoJay4789/genTech-agent-kit"
+    repo = "Gentech-Labs/genTech-agent-kit"
     branch = "main"
     path = "erc-8004/agent-metadata.json"
     return f"https://raw.githubusercontent.com/{repo}/{branch}/{path}"

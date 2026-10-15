@@ -2,7 +2,6 @@
 
 **The AAE-compatible agent standard. Identity. Execution. Audit. Baked in.**
 
-![GenTech Agent Kit](https://protojay4789.github.io/assets/dashboard-thumbnail.png)
 
 ---
 
@@ -99,7 +98,7 @@ mobile_first: true
 
 ### 1. Clone the Kit
 ```bash
-git clone https://github.com/ProtoJay4789/genTech-agent-kit.git
+git clone https://github.com/Gentech-Labs/genTech-agent-kit.git
 cd genTech-agent-kit
 ```
 
@@ -278,4 +277,4 @@ MIT — use it for anything. Built by GenTech Labs for the agent economy.
 
 ---
 
-**Built with ❤️ by [GenTech Labs](https://github.com/ProtoJay4789)** — Tough love for the agent economy.
+**Built with ❤️ by [GenTech Labs](https://github.com/Gentech-Labs)** — Tough love for the agent economy.

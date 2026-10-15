@@ -3,7 +3,7 @@
   "description": "AI agent economy infrastructure — risk scoring, data access, identity verification, and DeFi intelligence for autonomous agents. Built by GenTech Labs.",
   "version": "1.0.0",
   "author": "ProtoJay4789",
-  "homepage": "https://github.com/ProtoJay4789",
+  "homepage": "https://github.com/Gentech-Labs",
   "contact": "jordanjones0902@gmail.com",
   "services": [
     {
@@ -95,7 +95,7 @@
     "mcp": true,
     "openSource": true,
     "license": "MIT",
-    "github": "https://github.com/ProtoJay4789",
+    "github": "https://github.com/Gentech-Labs",
     "tags": ["defi", "security", "travel", "content", "ai-agents", "infrastructure"]
   }
 }
